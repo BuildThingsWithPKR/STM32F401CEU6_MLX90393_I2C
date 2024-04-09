@@ -10,4 +10,5 @@ https://stm32-base.org/boards/STM32F103C8T6-Black-Pill.html
 https://hackaday.io/project/11865-3d-magnetic-field-scanner
 
 https://www.adafruit.com/product/4022
+
 https://www.sparkfun.com/products/14571
